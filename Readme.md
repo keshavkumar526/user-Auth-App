@@ -12,7 +12,7 @@ This is a Node.js application that provides a basic user authentication system u
 1. Clone the repository:
 
 ```bash
-git clone <url>
+git clone https://github.com/keshavkumar526/user-Auth-App.git
 cd user-auth-app
 
 ```
